@@ -1,0 +1,19 @@
+#프로퍼티 설정
+
+#서버설정
+server:
+  port: 8090
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+
+#Spring mvc
+#spring:
+#  mvc:
+#    view:
+#      prefix: /WEB_INF/views
+#        suffix: .jsp
+
+
+
